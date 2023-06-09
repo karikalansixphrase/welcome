@@ -11,4 +11,6 @@ for(i=0;i<n;i++)
 {
  printf("%d ",i); 
 }
+printf("KArikalan"); 
+printf("PSG"); 
 }
